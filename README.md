@@ -63,3 +63,5 @@ dotnet run --config configs/goerli.cfg
 Donations for development and hosting can be done through our mini-DAO at [`0x6974df01bf293ab9af66127c03aac79b81d494c7`](https://etherscan.io/address/0x6974df01bf293ab9af66127c03aac79b81d494c7). <3
 
 Bounties for services and development will be available and announced soon.
+
+See our [FINANCE](FINANCE.md) file for details on the owners of the multi-sig. 
